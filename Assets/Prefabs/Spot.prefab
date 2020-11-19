@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3522167411786958075}
   m_Layer: 0
   m_Name: Spot
-  m_TagString: Untagged
+  m_TagString: Spot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45,8 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 465803aba83c116469e0cd3356435123, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Line: 0
-  Column: 0
+  Position: 0
   CrossObjectRoot: {fileID: 977065335240021641}
   CirculeObjectRoot: {fileID: 6774919041292035009}
   _currentSymbol: 0
@@ -61,7 +60,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 8, y: 20, z: 8}
+  m_Size: {x: 8, y: 2, z: 8}
   m_Center: {x: 0, y: 1, z: 1}
 --- !u!1001 &1900869470052849378
 PrefabInstance:

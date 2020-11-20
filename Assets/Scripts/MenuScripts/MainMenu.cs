@@ -9,20 +9,13 @@ public class MainMenu : MonoBehaviour
     //public BoardController boardController;
     public void PlayButton()
     {
+        transform.GetComponent<AudioSource>().Play();
         SceneManager.LoadScene("MatchScene");
-       //SceneManager.LoadScene("MatchScene");
-        /*
-        Scene scene = SceneManager.GetSceneByName("MatchScene");
-        GameObject[] list = scene.GetRootGameObjects();
-        foreach(GameObject obj in list){
-            Debug.Log(obj.name);
-        }
-        //SceneManager.LoadScene()
-        */
     }
 
     public void PlayVersusButton()
     {
+        transform.GetComponent<AudioSource>().Play();
         GameObject gameOptions = GameObject.FindGameObjectsWithTag("GameOptions")[0];
         gameOptions.GetComponent<GameOptions>().GameMode = GameMode.PlayerXPlayer;
         SceneManager.LoadScene("MatchScene");
@@ -30,6 +23,7 @@ public class MainMenu : MonoBehaviour
 
     public void SetDifficultyButton()
     {
+        transform.GetComponent<AudioSource>().Play();
         SceneManager.LoadScene("SetDifficultyScene");
     }
 

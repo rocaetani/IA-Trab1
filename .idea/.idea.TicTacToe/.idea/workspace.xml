@@ -4,20 +4,451 @@
     <list default="true" id="9befb2a8-8c5b-48a5-a314-c8bb8c99e4d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Documentation/LeanGuide.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Documentation/LeanGuide.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Fonts/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Fonts/OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Fonts/VarelaRound-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Fonts/VarelaRound-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Circuit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Circuit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Grey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Grey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Grid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Grid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Orange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Purple.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Purple.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Skybox.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Skybox.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/White.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/White.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Yellow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Materials/Yellow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Meshes/RoundedCube.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Meshes/RoundedCube.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Canvas.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Canvas.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Grid.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Grid.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/InfoInUI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/InfoInUI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/InfoInWorld.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/InfoInWorld.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Label.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Label.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/RoundedCube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/RoundedCube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Skybox.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Prefabs/Skybox.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Scripts/LeanLinkTo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Scripts/LeanLinkTo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Scripts/LeanUpgradeEventSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Scripts/LeanUpgradeEventSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders/Alpha.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders/Alpha.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders/Object.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders/Object.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders/Skybox.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Shaders/Skybox.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Description.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Description.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Grid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Heart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Left.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Examples/Textures/Right.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/LeanCommon.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/LeanCommon.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts/LeanHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts/LeanHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts/LeanInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts/LeanInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts/LeanInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Common/Scripts/LeanInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Documentation/Documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Documentation/Documentation.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/01 Button.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/01 Button.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/02 Toggle.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/02 Toggle.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/03 Radio.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/03 Radio.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/04 Modal.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/04 Modal.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/05 Pulse.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/05 Pulse.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/06 Notification.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/06 Notification.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/07 Shake.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/07 Shake.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/08 Drag.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/08 Drag.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/09    Handle.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/09    Handle.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/10    Move To Top.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/10    Move To Top.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/11    Snap.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/11    Snap.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/12    Edge.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/12    Edge.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/13    Nesting.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/13    Nesting.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/14 Resize.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/14 Resize.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/15 Switch.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/15 Switch.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/16 Tooltip.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/16 Tooltip.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/17    Modal.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/17    Modal.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/18 Hover.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/18 Hover.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/19 Hitbox.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/19 Hitbox.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/20 Joystick.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/20 Joystick.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/21    Relative.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/21    Relative.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/22 Orientation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/22 Orientation.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/23 Selection Highlight.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/23 Selection Highlight.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/24 Swipe.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/24 Swipe.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/25 Safe Area.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/25 Safe Area.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/26 Swipe Screens.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/26 Swipe Screens.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/AlertA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/AlertA.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/AlertB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/AlertB.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Back.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Back.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Click.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Click.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Blur6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Thickness5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round10_Thickness5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round30.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round50.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round50_Thickness5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round50_Thickness5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round5_Thickness2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Round5_Thickness2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Thud.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Examples/Media/Thud.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/GUIDE.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/GUIDE.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/LeanGUI.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/LeanGUI.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanConstrainAnchoredPosition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanConstrainAnchoredPosition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanConstrainToParent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanConstrainToParent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanDrag.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanDrag.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanGui.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanGui.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanHitbox.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanHitbox.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanHover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanHover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanJoystick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanJoystick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanMoveToTop.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanMoveToTop.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanOrientation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanOrientation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanPulse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanPulse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanResize.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanResize.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSafeArea.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSafeArea.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectionHighlight.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectionHighlight.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectionManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectionManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectionPriority.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSelectionPriority.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanShake.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanShake.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSizer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSizer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSnap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSnap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSwipe.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSwipe.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSwitch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanSwitch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanToggle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanToggle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanTooltip.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanTooltip.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanTooltipData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanTooltipData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanWindowCloser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/GUI/Scripts/LeanWindowCloser.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/READ ME.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/READ ME.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Documentation/Documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Documentation/Documentation.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/01 Animation Repeater.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/01 Animation Repeater.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/02 Animation From Button.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/02 Animation From Button.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/03 Join.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/03 Join.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/04 Branches.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/04 Branches.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/05 Multiple.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/05 Multiple.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/06 Ease.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/06 Ease.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/07 Speed.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/07 Speed.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/08 Time.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/08 Time.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/09 Alias.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/09 Alias.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/10 Prefab.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/10 Prefab.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/Scripts/RepeatFromCode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Examples/Scripts/RepeatFromCode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Fade In.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Fade In.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Fade Out.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Fade Out.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Play Sound.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Play Sound.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale InOut 1.1 Squash.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale InOut 1.1 Squash.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale InOut 1.1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale InOut 1.1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale.xy In.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale.xy In.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale.xy Out.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Prefabs/Scale.xy Out.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts/LeanAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts/LeanAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts/LeanAnimationOnce.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts/LeanAnimationOnce.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts/LeanAnimationRepeater.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Extras/Scripts/LeanAnimationRepeater.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/GUIDE.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/GUIDE.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/LeanTransition.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/LeanTransition.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/AudioSource.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/AudioSource/LeanAudioSourceVolume.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/AudioSource/LeanAudioSourceVolume.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/GameObject.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/GameObject/LeanGameObjectSetActive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/GameObject/LeanGameObjectSetActive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanDelay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanDelay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanEvent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanEvent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanGet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanGet.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanInsert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanInsert.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanJoin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanJoin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanJoinDelay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanJoinDelay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanJoinInsert.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanJoinInsert.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanPlaySound.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanPlaySound.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanQueue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanQueue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanTime.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanTime.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanTimeScale.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/LeanTimeScale.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light/LeanLightColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light/LeanLightColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light/LeanLightIntensity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light/LeanLightIntensity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light/LeanLightRange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Light/LeanLightRange.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material/LeanMaterialColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material/LeanMaterialColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material/LeanMaterialFloat.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material/LeanMaterialFloat.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material/LeanMaterialVector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Material/LeanMaterialVector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/SpriteRenderer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/SpriteRenderer/LeanSpriteRendererColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/SpriteRenderer/LeanSpriteRendererColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformEulerAngles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformEulerAngles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalEulerAngles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalEulerAngles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPosition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPosition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPositionX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPositionX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPositionY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPositionY.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPositionZ.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalPositionZ.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalRotation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalRotation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalScale.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformLocalScale.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPosition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPosition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPositionX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPositionX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPositionY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPositionY.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPositionZ.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformPositionZ.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformRotate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformRotate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformRotation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformRotation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformTranslate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/Transform/LeanTransformTranslate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanCanvasGroupAlpha.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanCanvasGroupAlpha.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanCanvasGroupBlocksRaycasts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanCanvasGroupBlocksRaycasts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanCanvasGroupInteractable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanCanvasGroupInteractable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanGraphicColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanGraphicColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanImageFillAmount.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanImageFillAmount.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchorMax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchorMax.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchorMin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchorMin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchoredPosition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchoredPosition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchoredPositionX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchoredPositionX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchoredPositionY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformAnchoredPositionY.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformOffsetMax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformOffsetMax.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformOffsetMin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformOffsetMin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformPivot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformPivot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformPivotX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformPivotX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformPivotY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformPivotY.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformSetAsLastSibling.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformSetAsLastSibling.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformSizeDelta.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanRectTransformSizeDelta.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanTransformLocalScaleXY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Methods/UI/LeanTransformLocalScaleXY.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanEase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanEase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanMethod.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanMethod.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanStateWithTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanStateWithTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanTiming.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanTiming.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanTransition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Lean/Transition/Scripts/LeanTransition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Piece.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Piece.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spot.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Board.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Board.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BoardController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MiniMax.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MiniMax.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spot.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Symbol.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Symbol.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MatchScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MatchScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SetDifficultyScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SetDifficultyScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MatchScripts/BoardController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MatchScripts/BoardController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,18 +471,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/GameOptions.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
-                <marker date="1605766694742" expanded="false" signature="6:78" ph="..." />
-                <marker date="1605766694742" expanded="true" signature="120:549" ph="{...}" />
-                <marker date="1605766694742" expanded="true" signature="223:279" ph="{...}" />
-                <marker date="1605766694742" expanded="true" signature="297:546" ph="{...}" />
-                <marker date="1605766694742" expanded="true" signature="376:466" ph="{...}" />
-                <marker date="1605766694742" expanded="true" signature="479:539" ph="{...}" />
+                <marker date="1605766874143" expanded="false" signature="6:78" ph="..." />
+                <marker date="1605766874143" expanded="true" signature="120:564" ph="{...}" />
+                <marker date="1605766874143" expanded="true" signature="223:279" ph="{...}" />
+                <marker date="1605766874143" expanded="true" signature="297:561" ph="{...}" />
+                <marker date="1605766874143" expanded="true" signature="376:481" ph="{...}" />
+                <marker date="1605766874143" expanded="true" signature="494:554" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -99,16 +530,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Spot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <marker date="1605564462885" expanded="false" signature="6:78" ph="..." />
+                <marker date="1605564462885" expanded="true" signature="113:768" ph="{...}" />
+                <marker date="1605564462885" expanded="true" signature="294:571" ph="{...}" />
+                <marker date="1605564462885" expanded="true" signature="312:526" ph="{...}" />
+                <marker date="1605564462885" expanded="true" signature="597:646" ph="{...}" />
+                <marker date="1605564462885" expanded="true" signature="682:761" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="85" />
+            <state relative-caret-position="315">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
               <folding>
-                <marker date="1605765645306" expanded="false" signature="6:113" ph="..." />
-                <marker date="1605765645306" expanded="true" signature="157:941" ph="{...}" />
-                <marker date="1605765645306" expanded="true" signature="241:453" ph="{...}" />
-                <marker date="1605765645306" expanded="true" signature="484:698" ph="{...}" />
-                <marker date="1605765645306" expanded="true" signature="727:939" ph="{...}" />
+                <marker date="1605829476495" expanded="false" signature="6:113" ph="..." />
+                <marker date="1605829476495" expanded="true" signature="157:1103" ph="{...}" />
+                <marker date="1605829476495" expanded="true" signature="241:507" ph="{...}" />
+                <marker date="1605829476495" expanded="true" signature="538:806" ph="{...}" />
+                <marker date="1605829476495" expanded="true" signature="835:1101" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -117,82 +565,79 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            <state relative-caret-position="90">
+              <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <marker date="1605765811423" expanded="false" signature="6:113" ph="..." />
-                <marker date="1605765811423" expanded="true" signature="152:969" ph="{...}" />
-                <marker date="1605765811423" expanded="true" signature="230:597" ph="{...}" />
-                <marker date="1605765811423" expanded="true" signature="338:591" ph="/* Scene scene = SceneManager.GetSceneByName(&quot;MatchScene&quot;); ... */" />
-                <marker date="1605765811423" expanded="true" signature="633:860" ph="{...}" />
-                <marker date="1605765811423" expanded="true" signature="899:965" ph="{...}" />
+                <marker date="1605829064671" expanded="false" signature="6:113" ph="..." />
+                <marker date="1605829064671" expanded="true" signature="152:822" ph="{...}" />
+                <marker date="1605829064671" expanded="true" signature="230:342" ph="{...}" />
+                <marker date="1605829064671" expanded="true" signature="378:659" ph="{...}" />
+                <marker date="1605829064671" expanded="true" signature="698:818" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Board.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <marker date="1605764794235" expanded="false" signature="7:106" ph="..." />
-                <marker date="1605764794235" expanded="true" signature="126:3254" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="212:582" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="634:705" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="747:823" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="853:1005" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="949:999" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="1044:1453" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="1054:1171" ph="/* return the score acording to a player win or not ... */" />
-                <marker date="1605764794235" expanded="true" signature="1217:1251" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="1307:1342" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="1394:1428" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="1514:1980" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="1906:1951" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="2054:2207" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="2131:2179" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="2245:2504" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="2339:2468" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="2392:2458" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="2538:3175" ph="{...}" />
-                <marker date="1605764794235" expanded="true" signature="3206:3250" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/BoardController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="662">
+              <caret line="51" column="56" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
               <folding>
-                <marker date="1605764788295" expanded="false" signature="7:138" ph="..." />
-                <marker date="1605764788295" expanded="true" signature="185:3710" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="367:689" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="605:655" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="715:852" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="766:845" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="882:1030" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="949:1024" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="1070:2225" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="1105:2218" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="1208:2179" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="1257:2165" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="1503:1602" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="1631:1749" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="2257:2695" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="2338:2439" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="2470:2582" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="2612:2666" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="2737:2947" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="2990:3209" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="3134:3203" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="3267:3501" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="3332:3473" ph="{...}" />
-                <marker date="1605764788295" expanded="true" signature="3536:3704" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="7:209" ph="..." />
+                <marker date="1605907463628" expanded="true" signature="256:6133" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="530:1201" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="833:883" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1010:1195" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1099:1185" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1227:1434" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1274:1320" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1363:1427" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1469:1724" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1511:1586" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1599:1662" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1754:1863" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1893:2041" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="1960:2035" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2074:2752" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2107:2746" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2305:2403" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2424:2518" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2792:2925" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2841:2918" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="2966:3900" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="3006:3869" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="3047:3859" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="3269:3356" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="3381:3487" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="3934:4493" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="4015:4165" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="4196:4344" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="4374:4464" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="4544:4684" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="4726:4936" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="4979:5198" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="5123:5192" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="5256:5490" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="5321:5462" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="5525:5693" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="5748:5940" ph="{...}" />
+                <marker date="1605907463628" expanded="true" signature="5982:6129" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/MatchMenu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <marker date="1605896687044" expanded="true" signature="6:113" ph="..." />
+                <marker date="1605896687044" expanded="true" signature="153:573" ph="{...}" />
+                <marker date="1605896687044" expanded="true" signature="284:390" ph="{...}" />
+                <marker date="1605896687044" expanded="true" signature="425:571" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -216,11 +661,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/GameOptions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/GameMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/MatchMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Programação 1/Projeto Git Professor/ProgIJogos/Assets/Scripts/MoveSeno.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Programação 1/Projeto Git Professor/ProgIJogos/Assets/Scripts/ClickToMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Board.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/BoardController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Symbol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Spot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/MiniMax.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -236,13 +684,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Board.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/GameOptions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MatchScripts/MatchMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MatchScripts/BoardController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="153" />
     <option name="y" value="430" />
     <option name="width" value="1400" />
@@ -253,11 +704,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -276,22 +726,13 @@
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
               <item name="MatchScripts" type="1045f7f1:UnityExplorerNode" />
             </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-              <item name="MenuScripts" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Packages" type="4e2708dd:PackagesRoot" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,12 +796,14 @@
       <workItem from="1605307904969" duration="2513000" />
       <workItem from="1605492551767" duration="16424000" />
       <workItem from="1605655021839" duration="4561000" />
-      <workItem from="1605738061315" duration="18708000" />
+      <workItem from="1605738061315" duration="19426000" />
+      <workItem from="1605803110635" duration="8725000" />
+      <workItem from="1605885950563" duration="11681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85715000" />
+    <option name="totallyTimeSpent" value="106839000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,7 +818,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28023443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2866276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -439,59 +882,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseTo3D.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayGame.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Spot.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Spot.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MiniMax.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Board.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Symbol.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameMode.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameOptions.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Lean/READ ME.txt" />
+    <entry file="file://$PROJECT_DIR$/../../Programação 1/Projeto Git Professor/ProgIJogos/Assets/Scripts/ClickToMove.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MiniMax.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Board.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="55" column="37" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="37" />
+        <state>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1605764794235" expanded="false" signature="7:106" ph="..." />
+            <marker date="1605764794235" expanded="true" signature="126:3254" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="212:582" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="634:705" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="747:823" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="853:1005" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="949:999" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="1044:1453" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="1054:1171" ph="/* return the score acording to a player win or not ... */" />
+            <marker date="1605764794235" expanded="true" signature="1217:1251" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="1307:1342" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="1394:1428" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="1514:1980" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="1906:1951" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="2054:2207" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="2131:2179" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="2245:2504" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="2339:2468" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="2392:2458" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="2538:3175" ph="{...}" />
+            <marker date="1605764794235" expanded="true" signature="3206:3250" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Board.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/MiniMax.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1605567149487" expanded="false" signature="6:52" ph="..." />
+            <marker date="1605567149487" expanded="true" signature="74:1832" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="308:1825" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="506:636" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="546:600" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="812:1788" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="1091:1284" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="1143:1270" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="1301:1494" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="1353:1480" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="1573:1734" ph="{...}" />
+            <marker date="1605567149487" expanded="true" signature="1631:1720" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Symbol.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <marker date="1605829476495" expanded="false" signature="6:113" ph="..." />
+            <marker date="1605829476495" expanded="true" signature="157:1103" ph="{...}" />
+            <marker date="1605829476495" expanded="true" signature="241:507" ph="{...}" />
+            <marker date="1605829476495" expanded="true" signature="538:806" ph="{...}" />
+            <marker date="1605829476495" expanded="true" signature="835:1101" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameMode.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1605829064671" expanded="false" signature="6:113" ph="..." />
+            <marker date="1605829064671" expanded="true" signature="152:822" ph="{...}" />
+            <marker date="1605829064671" expanded="true" signature="230:342" ph="{...}" />
+            <marker date="1605829064671" expanded="true" signature="378:659" ph="{...}" />
+            <marker date="1605829064671" expanded="true" signature="698:818" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoardController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/GameOptions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="147" column="4" lean-forward="true" selection-start-line="147" selection-start-column="4" selection-end-line="151" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameOptions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <marker date="1605766874143" expanded="false" signature="6:78" ph="..." />
+            <marker date="1605766874143" expanded="true" signature="120:564" ph="{...}" />
+            <marker date="1605766874143" expanded="true" signature="223:279" ph="{...}" />
+            <marker date="1605766874143" expanded="true" signature="297:561" ph="{...}" />
+            <marker date="1605766874143" expanded="true" signature="376:481" ph="{...}" />
+            <marker date="1605766874143" expanded="true" signature="494:554" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -521,130 +1021,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Board.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/MatchMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <marker date="1605764794235" expanded="false" signature="7:106" ph="..." />
-            <marker date="1605764794235" expanded="true" signature="126:3254" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="212:582" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="634:705" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="747:823" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="853:1005" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="949:999" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="1044:1453" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="1054:1171" ph="/* return the score acording to a player win or not ... */" />
-            <marker date="1605764794235" expanded="true" signature="1217:1251" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="1307:1342" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="1394:1428" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="1514:1980" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="1906:1951" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="2054:2207" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="2131:2179" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="2245:2504" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="2339:2468" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="2392:2458" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="2538:3175" ph="{...}" />
-            <marker date="1605764794235" expanded="true" signature="3206:3250" ph="{...}" />
+            <marker date="1605896687044" expanded="true" signature="6:113" ph="..." />
+            <marker date="1605896687044" expanded="true" signature="153:573" ph="{...}" />
+            <marker date="1605896687044" expanded="true" signature="284:390" ph="{...}" />
+            <marker date="1605896687044" expanded="true" signature="425:571" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/Spot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <marker date="1605564462885" expanded="false" signature="6:78" ph="..." />
+            <marker date="1605564462885" expanded="true" signature="113:768" ph="{...}" />
+            <marker date="1605564462885" expanded="true" signature="294:571" ph="{...}" />
+            <marker date="1605564462885" expanded="true" signature="312:526" ph="{...}" />
+            <marker date="1605564462885" expanded="true" signature="597:646" ph="{...}" />
+            <marker date="1605564462885" expanded="true" signature="682:761" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Coroutine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/BoardController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="662">
+          <caret line="51" column="56" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
           <folding>
-            <marker date="1605764788295" expanded="false" signature="7:138" ph="..." />
-            <marker date="1605764788295" expanded="true" signature="185:3710" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="367:689" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="605:655" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="715:852" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="766:845" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="882:1030" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="949:1024" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="1070:2225" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="1105:2218" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="1208:2179" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="1257:2165" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="1503:1602" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="1631:1749" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="2257:2695" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="2338:2439" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="2470:2582" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="2612:2666" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="2737:2947" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="2990:3209" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="3134:3203" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="3267:3501" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="3332:3473" ph="{...}" />
-            <marker date="1605764788295" expanded="true" signature="3536:3704" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MatchScripts/MiniMax.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <marker date="1605567149487" expanded="false" signature="6:52" ph="..." />
-            <marker date="1605567149487" expanded="true" signature="74:1832" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="308:1825" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="506:636" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="546:600" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="812:1788" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="1091:1284" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="1143:1270" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="1301:1494" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="1353:1480" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="1573:1734" ph="{...}" />
-            <marker date="1605567149487" expanded="true" signature="1631:1720" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/MainMenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding>
-            <marker date="1605765811423" expanded="false" signature="6:113" ph="..." />
-            <marker date="1605765811423" expanded="true" signature="152:969" ph="{...}" />
-            <marker date="1605765811423" expanded="true" signature="230:597" ph="{...}" />
-            <marker date="1605765811423" expanded="true" signature="338:591" ph="/* Scene scene = SceneManager.GetSceneByName(&quot;MatchScene&quot;); ... */" />
-            <marker date="1605765811423" expanded="true" signature="633:860" ph="{...}" />
-            <marker date="1605765811423" expanded="true" signature="899:965" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/SetDifficulty.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="85" />
-          <folding>
-            <marker date="1605765645306" expanded="false" signature="6:113" ph="..." />
-            <marker date="1605765645306" expanded="true" signature="157:941" ph="{...}" />
-            <marker date="1605765645306" expanded="true" signature="241:453" ph="{...}" />
-            <marker date="1605765645306" expanded="true" signature="484:698" ph="{...}" />
-            <marker date="1605765645306" expanded="true" signature="727:939" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MenuScripts/GameOptions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <marker date="1605766694742" expanded="false" signature="6:78" ph="..." />
-            <marker date="1605766694742" expanded="true" signature="120:549" ph="{...}" />
-            <marker date="1605766694742" expanded="true" signature="223:279" ph="{...}" />
-            <marker date="1605766694742" expanded="true" signature="297:546" ph="{...}" />
-            <marker date="1605766694742" expanded="true" signature="376:466" ph="{...}" />
-            <marker date="1605766694742" expanded="true" signature="479:539" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="7:209" ph="..." />
+            <marker date="1605907463628" expanded="true" signature="256:6133" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="530:1201" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="833:883" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1010:1195" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1099:1185" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1227:1434" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1274:1320" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1363:1427" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1469:1724" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1511:1586" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1599:1662" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1754:1863" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1893:2041" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="1960:2035" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2074:2752" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2107:2746" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2305:2403" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2424:2518" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2792:2925" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2841:2918" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="2966:3900" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="3006:3869" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="3047:3859" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="3269:3356" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="3381:3487" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="3934:4493" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="4015:4165" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="4196:4344" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="4374:4464" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="4544:4684" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="4726:4936" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="4979:5198" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="5123:5192" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="5256:5490" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="5321:5462" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="5525:5693" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="5748:5940" ph="{...}" />
+            <marker date="1605907463628" expanded="true" signature="5982:6129" ph="{...}" />
           </folding>
         </state>
       </provider>
